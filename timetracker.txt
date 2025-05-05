@@ -1,0 +1,4 @@
+time to parse through all line in measurement.txt is 20 second
+
+
+1st naive approach 3 min 5 second
